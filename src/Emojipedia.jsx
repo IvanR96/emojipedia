@@ -19,7 +19,13 @@ const Emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-  }
+  },
+  {
+    id: 4,
+    emoji: "💀",
+    name: "I'm Dead",
+    meaning: "This is another level of laughter, Seeing something so funny you say im dead!."
+  },
 ];
 
 export default Emojipedia;
